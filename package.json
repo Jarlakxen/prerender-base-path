@@ -1,0 +1,25 @@
+{
+  "name": "prerender-base-path",
+  "version": "1.0.0",
+  "description": "Prerender plugin for set a base path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jarlakxen/prerender-base-path.git"
+  },
+  "keywords": [
+    "prerender",
+    "path"
+  ],
+  "author": "Facundo Viale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jarlakxen/prerender-base-path/issues"
+  },
+  "homepage": "https://github.com/Jarlakxen/prerender-base-path",
+  "dependencies": {
+  }
+}
